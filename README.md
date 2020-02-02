@@ -1,6 +1,26 @@
 # THELINUXGURUS.COM
 Check out Linux &amp; DevOps tutorials.
 
+https://thelinuxgurus.com/complete-guide-to-install-pycharm-on-ubuntu/
+
+https://thelinuxgurus.com/simple-guide-to-install-jupyter-notebook-on-linux/
+
+https://thelinuxgurus.com/how-to-install-pip3-on-centos-rhel-use-it/
+
+https://thelinuxgurus.com/how-to-install-pip3-on-ubuntu-use-it/
+
+https://thelinuxgurus.com/install-snap-on-ubuntu-centos-rhel/
+
+https://thelinuxgurus.com/conda-commands-cheat-sheet-for-beginners/
+
+https://thelinuxgurus.com/complete-guide-to-install-anaconda-on-ubuntu/
+
+https://thelinuxgurus.com/complete-guide-to-install-anaconda-in-centos/
+
+https://thelinuxgurus.com/how-to-install-pip-on-ubuntu-python-package-manager/
+
+https://thelinuxgurus.com/easy-guide-to-install-pip-on-centos-python-package-manager/
+
 https://thelinuxgurus.com/
 
 https://thelinuxgurus.com/bash-scripting-12-creating-shell-script-functions/
